@@ -123,9 +123,6 @@ section {
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -33rem 0;
-}
-
-.home.show-animate .home-contact .text-animate h3 {
     animation: homeBgText 6s linear infinite;
     animation-delay: 2s;
 }
@@ -139,9 +136,6 @@ section {
     height: 100%;
     border-right: 2px solid var(--main-color);
     z-index: -1;
-}
-
-.home.show-animate .home-contact .text-animate h3::before {
     animation: homeCursorText 6s linear infinite;
     animation-delay: 2s;
 }
