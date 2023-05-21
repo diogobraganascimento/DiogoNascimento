@@ -46,3 +46,16 @@ window.onscroll = () => {
     let footer = document.querySelector('footer');
     footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight);
 }
+
+// formatando o campo celular
+const tel = document.getElementById('celular') // seletor do campo telefone
+
+tel.addEventListener('keypress', (e) => mascaraTelefone(e.target.value)) // dispara quando digitado no campo
+tel.addEventListener('change', (e) => mascaraTelefone(e.target.value)) // dispara quando autocompletado o campo
+
+const mascaraTelefone = (valor) => {
+    valor = valor.replace(/\D/g, "")
+    valor = valor.replace(/^(\d{2})(\d)/g, "($1) $2")
+    valor = valor.replace(/(\d)(\d{4})$/, "$1-$2")
+    celular.value = valor //insere o(s) valor(es) no campo
+}
