@@ -6,7 +6,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 ## Screenshots
 
-![App Screenshot](images/screanshoot.PNG/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://diogobraganascimento.github.io/diogonascimento//468x300?text=App+Screenshot+Here)
 
 
 ## 🚀 Sobre mim
