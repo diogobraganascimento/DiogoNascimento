@@ -29,6 +29,13 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 Javascript, HTML, CSS...
 
 
+## Stack utilizada
+
+**Front-end:** HTML, CSS, JavaScript
+
+**Back-end:** Python, Flask
+
+
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de diogonascimentobraga@gmail.com
