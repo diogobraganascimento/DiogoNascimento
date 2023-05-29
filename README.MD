@@ -18,13 +18,6 @@ E sou um desenvolvedor de TI entusiasmado e dedicado. Com vasta experiência em 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
 
-## Stack utilizada
-
-**Front-end:** React, Redux, TailwindCSS
-
-**Back-end:** Node, Express
-
-
 ## 🛠 Habilidades
 Javascript, HTML, CSS...
 
