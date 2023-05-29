@@ -1,7 +1,7 @@
 
-# Título do Projeto
+# Portifólio
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Esse projeto é para mostrar o meu perfil e dizer as minhas habilidades como desenvolvedor.
 
 
 ## Screenshots
@@ -10,7 +10,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+E sou um desenvolvedor de TI entusiasmado e dedicado. Com vasta experiência em programação, sou especializado em linguagens como Python, C# e JavaScript, além de frameworks populares como Django, Flask e Bootstrap. Minha paixão por resolver problemas e criar soluções eficientes impulsiona meu trabalho diário. Acredito na importância da colaboração em equipe e na comunicação clara para alcançar resultados excepcionais. Estou sempre buscando aprimorar minhas habilidades e me manter atualizado com as últimas tendências tecnológicas. Estou animado para enfrentar novos desafios e contribuir para projetos de sucesso. Vamos construir algo incrível juntos!
 
 
 ## Aprendizados
